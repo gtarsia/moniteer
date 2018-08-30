@@ -1,5 +1,10 @@
 {
+  "name": "moniteer",
   "dependencies": {
-    "puppeteer": "^1.7.0"
-  }
+    "node-inspect": "^1.11.5",
+    "nodemon": "^1.18.3",
+    "puppeteer": "^1.7.0",
+    "yargs": "^12.0.1"
+  },
+  "bin": "lib/cli.js"
 }
