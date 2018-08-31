@@ -22,7 +22,7 @@ moniteer --script index.js --inspect --watch "./**/.js"
 ```
 Make sure this `index.js` file connects to the puppeteer browser like this:
 ```js
-let browser = puppeteer.connect(browserWSEndpoint: program.env.PUPPETEER_WS_ENDPOINT)
+let browser = puppeteer.connect(browserWSEndpoint: program.env.MONITEER_WS_ENDPOINT)
 ```
 Then do whatever you want with that browser. 
 
