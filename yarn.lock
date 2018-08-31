@@ -337,10 +337,6 @@ ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
 
-node-inspect@^1.11.5:
-  version "1.11.5"
-  resolved "https://registry.yarnpkg.com/node-inspect/-/node-inspect-1.11.5.tgz#637d1de17a77f1c15eca9acf57e759f505525e1e"
-
 npm-run-path@^2.0.0:
   version "2.0.2"
   resolved "https://registry.yarnpkg.com/npm-run-path/-/npm-run-path-2.0.2.tgz#35a9232dfa35d7067b4cb2ddf2357b1871536c5f"
